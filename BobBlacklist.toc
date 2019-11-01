@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: BobBlacklist
+## Authors: 10leej
+## Version: 1.0a
+
+core.lua
